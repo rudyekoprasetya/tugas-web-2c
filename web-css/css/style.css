@@ -29,7 +29,7 @@ header {
 /* mengatur display inline pada .nav li dan mengatur jarak antar item margin right 20px */
 .nav li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 10px;
     margin-top: 20px;
     padding: 0px;
 }
